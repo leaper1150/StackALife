@@ -1,4 +1,4 @@
-# StackALife 🧱
+# StackALife 🧱 PLACE HOLDER README!!!!!!
 
 > **Work in Progress (WIP)** — A spatial life tracker and task organizer where to-do items behave like physical, weighted blocks. Clear your stack, clear your mind.
 
@@ -41,8 +41,8 @@ Traditional to-do lists treat every obligation identically. A quick 3-minute ema
 
 This project is actively in design and early development:
 
-- [x] Core product concept, sizing math (1–10), and interaction design
-- [x] Stacking gravity and 4-column packing algorithm design
+- [ ] Core product concept, sizing math (1–10), and interaction design
+- [ ] Stacking gravity and 4-column packing algorithm design
 - [ ] Hand-drawing core UI icons, block textures, and particle sprites
 - [ ] Compose Multiplatform Canvas interactive prototype
 - [ ] Task CRUD and list-view fallback
